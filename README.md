@@ -1,4 +1,4 @@
-# daily
+# daily 欢迎star
 flutter 用fish-redux开发的高仿好奇心日报
 效果图如下：
 ![image](https://github.com/xfmaster/daily/blob/master/pic1.jpg)
